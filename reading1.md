@@ -27,6 +27,6 @@ The US utilized their spies to shift through communication intercepts and inform
 
 Cyber Spies\
 Signal Conductors\
-Hardware Detection Equipment\
+Hardware Detection Equipment
 
 
