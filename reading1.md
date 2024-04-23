@@ -4,7 +4,7 @@
 
 ### Reading #1
 
-In todays topic we discussed the internals of the computer. Reading about the Chinese hack being done utilizing hardware gives me insight on an unconditional form of hacking that will help me prepare for my Cyber Security Career. 
+In today's topic, we discussed the internals of the computer. Reading about the Chinese hack being done utilizing hardware gives me insight on an unconditional form of hacking that will help me prepare for my Cyber Security Career. 
 
 1. How is a hardware hack different than a software hack?
 
