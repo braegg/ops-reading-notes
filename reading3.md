@@ -1,3 +1,3 @@
 # Brandon's OPs Reading Notes
-## OPS Readings
-## Class 3 Notes
+## OPs Readings
+## Reading 3 notes
