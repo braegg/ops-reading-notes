@@ -57,6 +57,6 @@ PC basics is the foundation anyone in IT should learn. It's important to know th
 
 ## Things I want to know more about
 
-How will Quantum Computing change the hardware of a PC in the future? Will there even be hardware PC's or a terminal connection to a cloud based quantum computer?/
+How will Quantum Computing change the hardware of a PC in the future? Will there even be hardware PC's or a terminal connection to a cloud based quantum computer?\
 Should building a PC be standard teaching in schools like shopclass and homemaking once was? Or should it be an extracircular activity like shopclass and homemaking are in some schools? 
 
