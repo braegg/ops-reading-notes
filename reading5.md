@@ -10,7 +10,7 @@
 
   cd - Change Directory\
   ls - list directories contents\
-  mv - Move or rename files\
+  mv - Move or rename files
 
 3. What are relative and absolute paths? What is special about starting with a ~ (tilde) or a ‘/’ character in the path?
 
