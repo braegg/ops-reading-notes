@@ -2,15 +2,15 @@
 ## Ops Readings
 # Reading #5
 
-Explain the terms “shell”, “terminal”, “cli”, and “command prompt”. Why are these still used today, when we have graphical interfaces?
+1. Explain the terms “shell”, “terminal”, “cli”, and “command prompt”. Why are these still used today, when we have graphical interfaces?
 
-  Shell, Terminal, cli and Command Prompt are all synonyms used to refer to the command line of the Unix/Linux OS.
+    Shell, Terminal, cli and Command Prompt are all synonyms used to refer to the command line of the Unix/Linux OS.
 
-What are the commands to change directories, list the file’s contents and rename/move files?
+2. What are the commands to change directories, list the file’s contents and rename/move files?
 
-  cd - Change Directory\
-  ls - list directories contents\
-  mv - Move or rename files
+    cd - Change Directory\
+    ls - list directories contents\
+    mv - Move or rename files
 
 What are relative and absolute paths? What is special about starting with a ~ (tilde) or a ‘/’ character in the path?
 
