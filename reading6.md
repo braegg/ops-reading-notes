@@ -38,5 +38,5 @@
 
     Yes
 
-   ## Things I want to know more about\
+   ## Things I want to know more about
    Differences between routers and what routers are best for specific purposes
