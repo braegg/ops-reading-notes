@@ -1,28 +1,39 @@
-What makes the Linksys WRT54GL famous?
+### Brandons Ops Reading Notes
+## Ops Readings
+# Reading #1
 
+1. What makes the Linksys WRT54GL famous?
 
-Given it’s age, why do people continue to buy the Linksys WRT54GL?
+    It has obtained a cult like following over it's history due to flexibility in use, price point and community backing. 
 
+2. Given it’s age, why do people continue to buy the Linksys WRT54GL?
 
-What does the “WRT54GL” stand for in the name?
+    It's over decade long proven reliability, name recognition and open source firmware support that's otherwise only found in more expensive modern Linksys routers.
 
+3. What does the “WRT54GL” stand for in the name?
 
-What did Linksys sell before routers?
-  Switches and LAN Cards
+    WRT - Wireless Router, 54 - 54Mbps, G - 802.11g
 
-When did Linksys preview their first consumer router?
-  1999
+4. What did Linksys sell before routers?
+  
+    Switches and LAN Cards
 
-Who suggested to name it a “router”?
-  Bill Gates
+5. When did Linksys preview their first consumer router?
 
-What happened when Cisco replaced the Linux-based firmware with the VxWorks platform?
-  There was a public outcry because VxWorks wasn't open source like the previous firmware. 
+    1999
 
-Why doesn’t the WRT54GL model need to be modified to abide by the new FCC rules?
+6. Who suggested to name it a “router”?
+  
+    Bill Gates
 
+7. What happened when Cisco replaced the Linux-based firmware with the VxWorks platform?
+  
+    There was a public outcry because VxWorks wasn't open source like the previous firmware. 
 
-Because it uses the 2.4mghz spectrum and new FCC rules applies to 5mgz
+8. Why doesn’t the WRT54GL model need to be modified to abide by the new FCC rules?
 
-Does the WRT54GL model still get updates from Linksys?
-Yes
+    Because it uses the 2.4GHz spectrum and new FCC rules apply to 5GHz
+
+9. Does the WRT54GL model still get updates from Linksys?
+
+    Yes
