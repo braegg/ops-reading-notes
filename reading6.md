@@ -2,6 +2,8 @@
 ## Ops Readings
 # Reading #1
 
+Knowing not all routers are the same will help building out networks and making sure you have the right router for the job
+
 1. What makes the Linksys WRT54GL famous?
 
     It has obtained a cult like following over it's history due to flexibility in use, price point and community backing. 
