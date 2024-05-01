@@ -1,6 +1,6 @@
 ### Brandons Ops Reading Notes
 ## Ops Readings
-# Reading #1
+# Reading #6
 
 Knowing not all routers are the same will help building out networks and making sure you have the right router for the job
 
