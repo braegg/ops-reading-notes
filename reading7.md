@@ -2,6 +2,8 @@
 ## Ops Readings
 # Reading #7
 
+Knowing how remote access work gives a better understanding of the process when accessing the terminal remotely.
+
 SSH Protocol
 
 1. What is the Secure Shell (SSH) Protocol?
