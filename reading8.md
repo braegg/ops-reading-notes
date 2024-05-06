@@ -1,6 +1,6 @@
 ### Brandons Ops Reading Notes
 ## Ops Readings
-# Reading #7
+# Reading #8
 
 ISOs are important in general IT uses because it makes use of easier ways to use physical media. 
 
